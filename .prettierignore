@@ -1,0 +1,9 @@
+node_modules
+vendor
+storage
+public
+app
+tests
+database
+bootstrap
+config
